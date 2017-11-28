@@ -1398,8 +1398,8 @@ img {
 #chat {
   position: fixed;
   width: 400px;
-  height: 400px;  
-  bottom: 5%;
+  height: 500px;  
+  bottom: 1%;
   right: 1%;
   z-index: 100;
 }
@@ -1414,7 +1414,7 @@ img {
 
 #chat-frame {
   position: absolute;
-  height: 400px;
+  height: 500px;
   width: 300px;
   right: 0px;
   z-index: 1; 
